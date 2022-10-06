@@ -2,7 +2,7 @@
 - 👀 I’m interested in javascirpt/css/vue/react
 - 🌱 I’m currently learning python
 
-### Hi there, I am Li Jianan👋
+### Hi there, I am Jianing Wu👋
 
 > A Front end developer from **HangZhou, China**.
 

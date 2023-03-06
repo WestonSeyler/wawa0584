@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wawa0584
 - 👀 I’m interested in javascirpt/css/vue/react
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python、golang
 
 ### Hi there, I am Jianing Wu👋
 

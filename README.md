@@ -15,7 +15,7 @@
 <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
-<code><img  with='85' height='26' src="https://camo.githubusercontent.com/fd8193a749c6d94cc6668808b21d43e11b678c9ffaa71ea49ae6393d54af8c00/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f797579696e77732f797579696e77732f6173736574732f676f2e737667"/></code>
+
 
 
 
